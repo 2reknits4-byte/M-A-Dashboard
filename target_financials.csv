@@ -1,0 +1,9 @@
+metric,value
+revenue,5000
+ebitda_margin,0.22
+da_pct_revenue,0.03
+capex_pct_revenue,0.04
+nwc_pct_revenue,0.10
+tax_rate,0.25
+wacc,0.08
+exit_multiple,10
